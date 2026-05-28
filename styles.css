@@ -366,7 +366,7 @@ h1 {
   padding: 18px;
   min-height: 126px;
   display: grid;
-  align-content: end;
+  align-content: center;
   overflow: hidden;
   border-radius: var(--radius-lg);
   border: 1px solid rgba(214, 189, 255, 0.17);
